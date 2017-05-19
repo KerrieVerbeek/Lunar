@@ -1,0 +1,101 @@
+#title {
+	
+	background-image: url("../images/blueStars.jpg");
+	font-family: 'Baloo', cursive;
+	color: #400080;
+	-webkit-text-stroke-width: .7px;
+	-webkit-text-stroke-color:  #ffff1a;
+	padding-bottom: .5em;
+	padding-top: .5em;
+	font-size: 3em;
+	border: 2px #400080;
+}
+
+
+.center {
+	text-align: center;
+}
+
+.background {
+	background-image: url("../images/stars.JPEG");
+
+}
+
+.menuStuff{
+	width: 100%;
+	text-align: center;
+	margin: 0;
+	background-color: black;
+}
+
+.menuStuff button {
+	font-size: 1.5em;
+	font-family: 'Baloo', cursive;
+	color: #ffff1a;
+	background-color: transparent;
+	border: 0;
+	width: 32%;
+}
+
+#myGameArea {
+
+	background-color: black; 
+	width: 700px;
+	height: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+.empty {
+	background-color: transparent;
+	padding-bottom: 2em;
+}
+
+# theMoon {
+	background-color: black; 
+	width: 45em;
+	height: 28em;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	bottom: 0;
+}
+
+#lander {
+
+
+}
+
+#taget {
+
+
+}
+
+#buLander {
+
+
+}
+
+
+#flame {
+
+
+}
+
+#moon {
+
+	height: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
